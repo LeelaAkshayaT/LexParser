@@ -14,7 +14,9 @@ gcc lex.yy.c
 
 Tokens are generated in out.txt file
 
-Parser
+To run Parser
+
+place lexer.l, parser.y and input.c file in same folder and excute these commands
 
 lex lexer.l
 
